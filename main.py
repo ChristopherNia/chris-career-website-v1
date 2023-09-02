@@ -7,7 +7,7 @@ JOBS = [
     'id': 1,
     'title': "Data Analyst",
     'location': "Port Moresby",
-    'salary': 'K80,000.00/annuam'
+    'salary': 'K110,000.00/annuam'
   
   },
   {
@@ -19,7 +19,7 @@ JOBS = [
     'id': 3,
     'title': "Frontend Developer",
     'location': 'Lae',
-    'salary': 'K60,000.00/annuam'
+    'salary': 'K140,000.00/annuam'
   },
   {
     'id': 4,
